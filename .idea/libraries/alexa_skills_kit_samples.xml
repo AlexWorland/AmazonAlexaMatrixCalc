@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alexa-skills-kit-samples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/alexa_skills_kit_samples_jar/alexa-skills-kit-samples.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
